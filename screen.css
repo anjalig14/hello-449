@@ -6,11 +6,22 @@ h1 {
     font-size: 4em;
 }
 
+h2 {
+    font-family: Helvetica;
+}
+
 #hello {
     font-weight: bold;
 }
 
 .intro {
+    font-size: 1.4em;
+    background: #ccc;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.body {
     font-size: 1.4em;
     background: #ccc;
     padding: 20px;
