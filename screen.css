@@ -68,7 +68,7 @@ h2 {
 }
 
 #c2 {
-    grid-column: 1;
+    grid-column: 3 / 4;
     grid-row: 4;
 }
 
