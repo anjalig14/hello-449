@@ -23,7 +23,7 @@ h2 {
     background: #ccc;
     padding: 20px;
     border-radius: 20px;
-    position: ;
+    max-width: fit-content;
 }
 
 .intro {
