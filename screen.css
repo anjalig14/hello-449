@@ -19,6 +19,13 @@ h2 {
     padding: 20px;
     border-radius: 20px;
 }
+
+.image {
+    background: #ccc;
+    padding: 20px;
+    border-radius: 20px;
+}
+
 .intro {
     font-size: 1.4em;
     background: #ccc;
