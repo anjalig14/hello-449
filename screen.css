@@ -42,5 +42,6 @@ h2 {
 
 .grid-container {
     display: grid;
-    margin: 1em;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
