@@ -1,0 +1,18 @@
+h1, p {
+    font-family: Helvetica, sans-serif
+}
+
+h1 {
+    font-size: 4em;
+}
+
+#hello {
+    font-weight: bold;
+}
+
+.intro {
+    font-size: 1.4em;
+    background: #ccc;
+    padding: 20px;
+    border-radius: 20px;
+}
