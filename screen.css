@@ -2,10 +2,6 @@ h1, p {
     font-family: Helvetica, sans-serif
 }
 
-p {
-    font-size: 1em;
-}
-
 h1 {
     font-size: 4em;
 }
@@ -19,9 +15,8 @@ h2 {
 }
 
 .pic{
-    background: #ccc;
-    padding: 20px;
-    border-radius: 20px;
+    padding: 40px;
+    border-radius: 0px;
 }
 
 .image {
