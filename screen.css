@@ -2,6 +2,10 @@ h1, p {
     font-family: Helvetica, sans-serif
 }
 
+p {
+    font-size: 1em;
+}
+
 h1 {
     font-size: 4em;
 }
